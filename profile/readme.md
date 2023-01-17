@@ -1,4 +1,4 @@
-## Hey, It's ABC Incs
+## ABC Incs
 
 <img src="https://cedricbahirwe.github.io/images/abclo.png" alt="ABC Incs Logo" height="300">
 
